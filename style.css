@@ -109,7 +109,7 @@ footer {
   h2 {
     font-size: 32px;
   }
-  h3 {
+  #info-developer,.email-link {
     font-size: 14px;
     text-align: center;
   }
